@@ -1,0 +1,20 @@
+{
+  "name": "npmdemo",
+  "version": "1.0.0",
+  "description": "This is a npm demo for http5201 students",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sean Doyle",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat-css": "^3.1.0",
+    "gulp-sass": "^4.0.2"
+  },
+  "dependencies": {
+    "gulp-imagemin": "^7.1.0"
+  }
+}
